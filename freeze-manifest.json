@@ -1,0 +1,295 @@
+{
+  "version": "sandstorm-frozen-2026-11-01",
+  "frozenAt": "2026-11-01T15:53:38.100888+08:00",
+  "htmlSha256": "cce2f524539485ea18bee299e0de33579dd560be3a17af6fc06b7728a908e71b",
+  "enemyRangesMeters": {
+    "spawn": 20,
+    "detection": 20,
+    "run": 7
+  },
+  "preset": {
+    "sha256": "5b672a8b3fa649753fbf5c701bd856f9e65d8d302a98aa399c622732084cf507",
+    "presetId": "c83c8bc883e3234b",
+    "controls": 59,
+    "sandTiles": 0,
+    "capturedAt": "2026-11-01T03:30:37.336Z"
+  },
+  "policy": "After this authorized initial archive and GitHub/Pages publication, every source edit, rebuild, replacement, archive change or published update requires explicit user confirmation of the proposed change. Read-only inspection is allowed. Original/V1/V8 stay frozen.",
+  "files": [
+    {
+      "path": "Sandstorm.html",
+      "bytes": 165578501,
+      "sha256": "cce2f524539485ea18bee299e0de33579dd560be3a17af6fc06b7728a908e71b"
+    },
+    {
+      "path": "Launch Sandstorm.cmd",
+      "bytes": 1943,
+      "sha256": "abb397fe12047cdf28eb9f8f5c1fec41c5012a0d2a065aecec086d202a6c9a77"
+    },
+    {
+      "path": "AGENTS.md",
+      "bytes": 6102,
+      "sha256": "4c0189cf9f52cab005183f0296ee21e0659e43130dc4d6303f00fa8f745762c4"
+    },
+    {
+      "path": "Sandstorm 测试报告.txt",
+      "bytes": 18814,
+      "sha256": "5a5f9510b031609f9cefef872112796b91a610b3b8fa48b8a9838d8fe9b2c89b"
+    },
+    {
+      "path": "sandstorm/AGENTS.md",
+      "bytes": 7688,
+      "sha256": "d1d59925778837bfa813f2a4be5fd81ebf6bb2328961697b74f8d7c5d31d0781"
+    },
+    {
+      "path": "sandstorm/build.py",
+      "bytes": 4781,
+      "sha256": "3a35a8f80b53de8463cb96f809b1fea9b04be928db3f12b614083869e2680a4e"
+    },
+    {
+      "path": "sandstorm/prepare.py",
+      "bytes": 3118,
+      "sha256": "156325cb82bb750980495d026fe37e597de0564e225ab69a716501d16490a538"
+    },
+    {
+      "path": "sandstorm/build-manifest.json",
+      "bytes": 709,
+      "sha256": "511742b952d95761b7ff50902442a8d90754a02102200e70a9670ebb68e453d8"
+    },
+    {
+      "path": "sandstorm/renderer-build.json",
+      "bytes": 4776,
+      "sha256": "96c1344e6e16adfcb1f8d7e4d4db799f95ca0ec95df3822d8731849697be1fa0"
+    },
+    {
+      "path": "sandstorm/character-renderer.bundle.js",
+      "bytes": 40780648,
+      "sha256": "cdc1879a3a7165fdfa216b0fd8bbd7f82be949ca5f0f4500a2e9fc87279b93e0"
+    },
+    {
+      "path": "sandstorm/src/initial-workbench.json",
+      "bytes": 7815,
+      "sha256": "5b672a8b3fa649753fbf5c701bd856f9e65d8d302a98aa399c622732084cf507"
+    },
+    {
+      "path": "sandstorm/src/scene.js",
+      "bytes": 404376,
+      "sha256": "8cf94ae18fd24f27835d501f916c202ca2dc19314ab5c743d61cc7a74bf4adc6"
+    },
+    {
+      "path": "sandstorm/src/template.html",
+      "bytes": 165177565,
+      "sha256": "4fc29c22cb2601a79ebe5d6b436d11ac862f5b258f542b8c61b019b8438a7d39"
+    },
+    {
+      "path": "sandstorm/renderer-source/aim-controller.js",
+      "bytes": 5884,
+      "sha256": "2cc9fc5debeddea9010e965f9605bc5233d25b3ad27feef61448b178faae995a"
+    },
+    {
+      "path": "sandstorm/renderer-source/aim-left-sway.js",
+      "bytes": 2974,
+      "sha256": "abd387acee21d2bd4b37ad9c8439125cad3c8230d8f0155ffd3d492359b9b895"
+    },
+    {
+      "path": "sandstorm/renderer-source/aim-right-elbow.js",
+      "bytes": 3065,
+      "sha256": "cebed3b6b7058703445cb7e247f3b7b435fee3dce3782a43451cf2ee1e952f0b"
+    },
+    {
+      "path": "sandstorm/renderer-source/aim-support-pose.js",
+      "bytes": 5841,
+      "sha256": "acbcf87974d9362a706c2c2036f58f987d3bc85f5d63625571ff3987c2961cbc"
+    },
+    {
+      "path": "sandstorm/renderer-source/character-renderer.js",
+      "bytes": 122837,
+      "sha256": "955ecfcfaa26ac01b8f390c746d04acd9604044d6bdaeb790bd22dec5b25850f"
+    },
+    {
+      "path": "sandstorm/renderer-source/combat-effects.js",
+      "bytes": 25065,
+      "sha256": "f6d05ab461d693273845ddd9e17457f4344c9edf776e02aa78d0932003df5991"
+    },
+    {
+      "path": "sandstorm/renderer-source/contact-skin-sampler.js",
+      "bytes": 4748,
+      "sha256": "8234165dc264bc4baa525fa8e108765d1d01755a866ebd79bdf4ffa7fb218048"
+    },
+    {
+      "path": "sandstorm/renderer-source/debris-hull-worker.js",
+      "bytes": 8166,
+      "sha256": "1453e5bdf8f598b4ee05f42b222590dffebee758a5646b3c85f625d49d5fa135"
+    },
+    {
+      "path": "sandstorm/renderer-source/debris-physics.js",
+      "bytes": 52357,
+      "sha256": "eb5c9005c343da85245e0338b1fc9f69a39159acb6765794069042c1c5984fe4"
+    },
+    {
+      "path": "sandstorm/renderer-source/emergence-sand.js",
+      "bytes": 15942,
+      "sha256": "0e26e064a9326566092b98e6dc40cf0f186377e6c72e2a9ea892864c2895df8b"
+    },
+    {
+      "path": "sandstorm/renderer-source/fracture-connectivity.js",
+      "bytes": 25481,
+      "sha256": "4c4dd0297fe1dd30260dd41391c322a6cf9b04be9795add6ad7d8662a9436d5c"
+    },
+    {
+      "path": "sandstorm/renderer-source/geometry-packing.js",
+      "bytes": 1459,
+      "sha256": "a9773ae4fc5c85bd744946b12bdfd82303a3e1df462f98ac2275a6505c0f075e"
+    },
+    {
+      "path": "sandstorm/renderer-source/gpu-dynamic-data.js",
+      "bytes": 4423,
+      "sha256": "8736ce8f444105b638a0ffe900f90fe993cd7e51828b602f7a2dcbe4c9bc76be"
+    },
+    {
+      "path": "sandstorm/renderer-source/gunsmith-muzzle-data.js",
+      "bytes": 2491750,
+      "sha256": "4dc590f847cf12d4fc035a66cfdfb4162413ff92eb8ae3c65a91a8dd1f520ccd"
+    },
+    {
+      "path": "sandstorm/renderer-source/gunsmith-sim-data.js",
+      "bytes": 7079464,
+      "sha256": "5928fdd6d83c5f2188c8cf66bff70a66463ee9800086b4059cc52373d9185015"
+    },
+    {
+      "path": "sandstorm/renderer-source/gunsmith-source-data.js",
+      "bytes": 299501,
+      "sha256": "65f4cab782d6e6381cc7500c2fa8875309daeafa85b81ab9d84705edc725d6aa"
+    },
+    {
+      "path": "sandstorm/renderer-source/gunsmith-vfx-textures.js",
+      "bytes": 8732023,
+      "sha256": "bd77fb97d0eebbf6db53e3d99f27c41e4b251a5f3ae817e159fbd62bd654d0e2"
+    },
+    {
+      "path": "sandstorm/renderer-source/gunsmith-wisp-data.js",
+      "bytes": 288339,
+      "sha256": "8e11869537b280ef65cb05fdc29486d3abf31a4395339aa7092681e53a54cd75"
+    },
+    {
+      "path": "sandstorm/renderer-source/idle-foot-lock.js",
+      "bytes": 6078,
+      "sha256": "98f459ae792dbfa893665e9c96b9b05eff9cf512ae8284933f4154b51b7860c3"
+    },
+    {
+      "path": "sandstorm/renderer-source/idle-original-planar.js",
+      "bytes": 16605,
+      "sha256": "0a61435e1f5288692de77c75105a631eb78945ed202c2f965a74d474991bdfeb"
+    },
+    {
+      "path": "sandstorm/renderer-source/idle-stabilization.js",
+      "bytes": 1713,
+      "sha256": "e7de9e362358766dc010c5d5a8783c3cebf0596c2844ff9a2990ad74ccb18f1a"
+    },
+    {
+      "path": "sandstorm/renderer-source/leg-contact-sand.js",
+      "bytes": 6733,
+      "sha256": "7ffd552a4b34232fea0105872bacaf6dadcf43bd8c4bb2776ca0a1f2fbc6882c"
+    },
+    {
+      "path": "sandstorm/renderer-source/muzzle-charge.js",
+      "bytes": 11927,
+      "sha256": "49028805040eeb57f8b7433d3b86dd2bdc07c01e43c1ebcb61e7acb88ede6cad"
+    },
+    {
+      "path": "sandstorm/renderer-source/muzzle-flash.js",
+      "bytes": 20424,
+      "sha256": "5bb3933846bf1d5a734ed2d1d875f3cae8d1585354e84c93dd2bd667d501640f"
+    },
+    {
+      "path": "sandstorm/renderer-source/muzzle-overheat.js",
+      "bytes": 7273,
+      "sha256": "3467bb15b355ed0193837ca2a05d68368ea8f0740db78b93bf2c1a64861f628d"
+    },
+    {
+      "path": "sandstorm/renderer-source/muzzle-source-flame.js",
+      "bytes": 8339,
+      "sha256": "b5da55c1617f9c0cf22c615dd4ac02641ee2240e7f9d5f39742a7f70bb3e4574"
+    },
+    {
+      "path": "sandstorm/renderer-source/pistol-motion-data.js",
+      "bytes": 380991,
+      "sha256": "8dd07fdcbeee795370a1b3b1db84cb9228732848e89146c9f878bd1a1aef50fb"
+    },
+    {
+      "path": "sandstorm/renderer-source/player-hit.js",
+      "bytes": 3687,
+      "sha256": "a10b039c78959b3c0931a2cd9b64cacd51a63ce474a08a2ac88b7f5a92d4d351"
+    },
+    {
+      "path": "sandstorm/renderer-source/player-recoil.js",
+      "bytes": 6887,
+      "sha256": "6a4da3770e0558e4bcdc4c8567a34f41d009090c5af42e6840e0cecc4660e952"
+    },
+    {
+      "path": "sandstorm/renderer-source/sand-flow-sheet.js",
+      "bytes": 12702,
+      "sha256": "9f2c3a60f62f1e8f2ed0ca42937d3f281a20abf4efc9f44356bbc8d4f58f1838"
+    },
+    {
+      "path": "sandstorm/renderer-source/sand-surface-layer.js",
+      "bytes": 25886,
+      "sha256": "66f88b2f37085b075e60cf6e0d97688a2c906f35ac6c01d227d2205153776c64"
+    },
+    {
+      "path": "sandstorm/renderer-source/scanner-grip.js",
+      "bytes": 19087,
+      "sha256": "0ec5d2cc93a16b81b0b0b7a305ca0bca723982d6b187b1c2af845fba4a4d65c5"
+    },
+    {
+      "path": "sandstorm/renderer-source/shadow-map.js",
+      "bytes": 13030,
+      "sha256": "7b603b507b731af9b1321a2cc01562fa0ea8aa633e66c9b697b819db89518d46"
+    },
+    {
+      "path": "sandstorm/renderer-source/transparency-layers.js",
+      "bytes": 2550,
+      "sha256": "0c448adec7e8c1f80f84a1258330c03b4cdda1cbf236667b31c3601c4298f1b7"
+    },
+    {
+      "path": "sandstorm/renderer-source/transparent-shell-indices.js",
+      "bytes": 12521,
+      "sha256": "ca5b41e0fa5920faac59b4a400be4d48692ecaab4d2b4e18a47107f42c586bc1"
+    },
+    {
+      "path": "sandstorm/renderer-source/unity-laser-assets.js",
+      "bytes": 37740633,
+      "sha256": "63d5f53738af672edb1afcb3c3e8feb153009d692b8187fcc4f21d171cc28406"
+    },
+    {
+      "path": "sandstorm/renderer-source/vendor/BufferGeometryUtils.js",
+      "bytes": 31780,
+      "sha256": "3de832095679e56578beddf70f3e90846a47ec8a886fa8eb21c973cdaef88922"
+    },
+    {
+      "path": "sandstorm/renderer-source/vendor/GLTFLoader.js",
+      "bytes": 110278,
+      "sha256": "458b025b12213713958b07012b48aa5e84aebb562c92cfe53ea82d41bda2fd42"
+    },
+    {
+      "path": "sandstorm/renderer-source/vendor/THREE-LICENSE.txt",
+      "bytes": 1081,
+      "sha256": "4c40a1ef62450b857c3b2aaf294936304cd552d965fbcd9d32d4c5bcf4ba4454"
+    },
+    {
+      "path": "sandstorm/renderer-source/vendor/three.module.js",
+      "bytes": 1314681,
+      "sha256": "ce1fa418de16a19495a9f72495580e3015d7745c296d3ce0485897f902ddedfb"
+    },
+    {
+      "path": "sandstorm/renderer-source/weapon-raytrace.js",
+      "bytes": 54779,
+      "sha256": "ada1184a7c8da5220cba4342352ae34e80a3e1c28b90cc86cec219bfc4a808fb"
+    },
+    {
+      "path": "sandstorm/renderer-source/zombie-combat.js",
+      "bytes": 113033,
+      "sha256": "2802f43fc63549d5099ff60b010bd19ec997eb191a23bbdbb5aa143c8ead1dd7"
+    }
+  ]
+}
